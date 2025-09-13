@@ -18,21 +18,6 @@ The goal is to showcase hands-on implementations of **EDA, feature engineering, 
 - Model Evaluation & Interpretation  
 - Business Insights & Reporting  
 
----
-
-## 📂 Repository Structure
-
-Machine-Learning-Projects/
-│── ProjectName1/
-│ │── notebook.ipynb
-│ │── requirements.txt
-│ │── README.md
-│── ProjectName2/
-│ │── notebook.ipynb
-│── README.md (this file)
-│── LICENSE
----
-
 ## 🔮 Future Plan
 I will keep adding more ML projects to this repository covering:  
 - Supervised & Unsupervised Learning  
