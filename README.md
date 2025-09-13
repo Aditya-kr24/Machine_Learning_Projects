@@ -22,6 +22,15 @@ The goal is to showcase hands-on implementations of **EDA, feature engineering, 
 
 ## 📂 Repository Structure
 
+Machine-Learning-Projects/
+│── ProjectName1/
+│ │── notebook.ipynb
+│ │── requirements.txt
+│ │── README.md
+│── ProjectName2/
+│ │── notebook.ipynb
+│── README.md (this file)
+│── LICENSE
 ---
 
 ## 🔮 Future Plan
